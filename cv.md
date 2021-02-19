@@ -1,7 +1,7 @@
 **Curriculum vitae**
 1. My name is Roman Chernyshkov
 1. My phone:  +7(962)471-11-13, my email: romanchernyshkov88@gmail.com
-1. I was born on 27.04.1988 in the city of Penza, in Russia, where I live to this day. Unfortunately, I have no experience in programming, but I have a strong desire to learn this and, if possible, to connect my life with working in the IT industry and further studying programming.
+1. I was born on April 27, 1988 in the city of Penza, in Russia, where I live to this day. Unfortunately, I have no experience in programming, but I have a strong desire to learn this and, if possible, to connect my life with working in the IT industry and further studying programming.
 1. I have a little experience in site layout, I know a little html and css, and I also started learning the javascript programming language.
 1.  ```
     function isPalindrome(parameter){
