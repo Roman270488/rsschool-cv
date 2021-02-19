@@ -19,7 +19,7 @@
     isPalindrome("walter") 
     isPalindrome(12321)    
     isPalindrome(123456)
-```
+    ```
 1. no work experience
 1. In 2003, he graduated from high school and in the same year entered the "Architectural and Construction College" with a degree in "Applied computer science". In 2007, I graduated from college and entered the "Russian State University of Innovative Technologies and Entrepreneurship" with a degree in " Applied computer science (in economics)", I graduated in 2012
 1. My level of English "Elementary"
