@@ -1,0 +1,50 @@
+
+body{
+    min-width: 371px;
+    max-width: 1366px; 
+    margin:0 auto;
+    padding:40px 40px;
+    font-family: Arial; 
+}
+h1{
+    text-align: center;
+}
+.bg-block-summary{
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    background-color:rgb(251, 252, 235);
+}
+@media(max-width:1023px){
+    .bg-block-summary{
+        flex-direction:column-reverse;
+    }
+}
+.block-summary li{
+   margin-bottom:10px;
+}
+.field-with-code{
+    display:inline-block;
+    padding:20px;
+    background-color: #2c2929;
+    color:rgb(235, 235, 235);
+    font:16px/25px 'CamingoCode-Regular', monospace;
+}
+.purple-text{color:#c850ff;}
+.blue-text{color: #4f87ff;}
+.orange-text{color: #ffc32c;}
+.red-text{color: #ff1e1e;}
+.green-text{color:#16bd00}
+.tab{padding-left: 20px;}
+.tab-2{padding-left: 40px;}
+.tab-3{padding-left: 60px;}
+
+.bg-user-photo{
+    padding:20px;
+    margin-left: 20px;
+    background-color:#e0edff;
+}
+.user-photo{
+    width:150px;
+    height:150px;
+}
