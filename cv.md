@@ -19,7 +19,7 @@ ___
 3. JavaScript https://learn.javascript.ru/
 4. JavaScript https://developer.mozilla.org/
 5. JS, CSS, HTML, Git video courses on YouTube channel Glo Academy
-6. JS/F PRE-SCHOOL 2022Q4
+6. JavaScript/Front PRE-SCHOOL 2022Q4
 7. Russian State University of Innovative Technologies and Entrepreneurship - specialty "Applied Informatics"
 
 ## Code example:
